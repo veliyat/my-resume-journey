@@ -68,7 +68,7 @@ Here’s how my resume performed at first glance:
 
 One of the biggest lessons in this journey was moving from **responsibility-based descriptions** to **impact-based, quantifiable outcomes**.  
 
-### ❌ Before (Version 02 – CV Draft):contentReference[oaicite:0]{index=0}  
+### ❌ Before (Version 02 – CV Draft):  
 **MongoDB – Technical Curriculum Developer (Dec 2020 – Oct 2023)**  
 
 > I contributed to the Professional Services at MongoDB by developing and maintaining content for instructor-led training. I collaborated with Consulting Engineers to explore advancements in NoSQL technologies, particularly MongoDB Atlas and its ecosystem, and worked to continuously enhance content creation and delivery.  
@@ -78,7 +78,7 @@ This is written as a **paragraph of tasks**. It doesn’t show scale, numbers, o
 
 ---
 
-### ✅ After (Version 03 – Final Resume):contentReference[oaicite:1]{index=1}  
+### ✅ After (Version 03 – Final Resume):  
 **MongoDB – Technical Curriculum Developer (Dec 2020 – Oct 2023)**  
 - Created and maintained **training modules adopted by 2,500+ engineers worldwide**.  
 - Collaborated with Consulting Engineers to integrate the latest NoSQL advancements, **reducing content refresh cycles by 30%**.  
