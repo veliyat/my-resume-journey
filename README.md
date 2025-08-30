@@ -56,8 +56,8 @@ Recruiters don’t hire based on how “pretty” your CV looks. They hire based
 Recruiters spend **less than 10 seconds** deciding if a resume is worth reading.  
 Here’s how my resume performed at first glance:  
 
-- **Version 01 (Old):** Overwhelming. Too much text, unclear focus.  
-- **Version 02 (Draft):** Cleaner but still heavy — no clear impact, just tasks.  
+- **Version 01:** Overwhelming. Too much text, unclear focus.  
+- **Version 02:** Cleaner but still heavy — no clear impact, just tasks.  
 - **Version 03 (Final):** Immediately shows *who I am, what I do, and the results I deliver*. Recruiters can see relevance at a glance.  
 
 **Lesson:** If your value doesn’t show up in 10 seconds, it won’t get seen at all.  
